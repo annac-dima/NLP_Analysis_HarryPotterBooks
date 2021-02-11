@@ -10,9 +10,9 @@
    2.2 Analysis of most important terms: TF-IDF-TFIDF  
    2.3 Pointwise Mutual Information (PMI)     
    2.4 Language Generation using HP Books       
-   2.5 Topic Modeling    
-      	2.5.1 LDA Topic Modeling   
-      	2.5.2 Dynamic Topic Modeling    
+   2.5 Topic Modeling           
+      			2.5.1 LDA Topic Modeling          
+      			2.5.2 Dynamic Topic Modeling          
 2.6 Matrix Factorization        
 2.7 Clustering    
 3. Visualization      
