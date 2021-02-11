@@ -10,21 +10,21 @@
    2.2 Analysis of most important terms: TF-IDF-TFIDF  
    2.3 Pointwise Mutual Information (PMI)  
    2.4 Language Generation using HP Books 
-   2.5 Topic Modeling  
-      2.5.1 LDA Topic Modeling 
-      2.5.2 Dynamic Topic Modeling 
-	 2.6 Matrix Factorization
-	 2.7 Clustering
-3. Visualization  
-   3.1 Word Embeddings Visualization 
-   3.2 TSNE Word2Vec Visualization 
-	 3.3 Word2Vec Book1 Book7 Visualization 
-	 3.4 PCA Words Embeddings Visualization  
-	 3.5 Unigrams TF-IDF-TFIDF Visualization scaled by TF
-	 3.6 Bigrams TF-IDF-TFIDF Visualization scaled by TF 
-	 3.7 Harry - Ron - Hermione Occurrencies  Visualization  
-	 3.8 Topic Modeling Visualization  
-	 3.9 Clusering Visualization 
+   2.5 Topic Modeling    
+      2.5.1 LDA Topic Modeling   
+      2.5.2 Dynamic Topic Modeling      
+	 2.6 Matrix Factorization    
+	 2.7 Clustering    
+3. Visualization      
+   3.1 Word Embeddings Visualization     
+   3.2 TSNE Word2Vec Visualization     
+	 3.3 Word2Vec Book1 Book7 Visualization     
+	 3.4 PCA Words Embeddings Visualization      
+	 3.5 Unigrams TF-IDF-TFIDF Visualization scaled by TF     
+	 3.6 Bigrams TF-IDF-TFIDF Visualization scaled by TF      
+	 3.7 Harry - Ron - Hermione Occurrencies  Visualization      
+	 3.8 Topic Modeling Visualization     
+	 3.9 Clusering Visualization     
    
 
 ### Description of the content and type of the dataset
