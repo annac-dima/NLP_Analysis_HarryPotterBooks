@@ -1,6 +1,7 @@
 # NLP_Analysis_HarryPotterBooks
 
 *Natural Language Processing Project to analyze Harry Potter Books content.*  
+- See 'HarryPotter_NLP_Analysis' Jupyter Notebook
 
 ### Table of Contents   
 1. Data and Preprocessing    
